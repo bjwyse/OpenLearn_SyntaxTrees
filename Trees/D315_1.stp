@@ -1,0 +1,3 @@
+(ROOT (S (NP (NNP Sean) (NNP Damer)) (VP (VBZ examines) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (NP (NN crime)) (PP (IN in) (NP (NN relation)))))) (PP (TO to) (NP (NNP Glasgow)))) (. .)))
+(ROOT (S (NP (DT The) (JJ audio) (NN program)) (VP (VBD was) (VP (VBN recorded) (PP (IN in) (NP (CD 2001))))) (. .)))
+(ROOT (S (S (NP (NP (NNS Participants)) (PP (IN in) (NP (DT the) (JJ audio) (NN program)))) (VP (VBD were))) (: :) (S (NP (DT All)) (VP (VBP are) (VP (VBN experienced) (NP (NN OU) (NNS tutors))))) (. .)))

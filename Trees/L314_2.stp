@@ -1,0 +1,3 @@
+(ROOT (S (NP (NP (JJ Mire) (NN todo) (NN el) (NN reportaje)) (PP (IN de) (NP (JJ nuevo) (NN y) (NN fíjese) (NN qué)))) (VP (VBZ temas) (SBAR (S (NP (NP (FW de) (FW la) (NN vida) (NN y)) (NP (FW de) (FW la) (NN cultura) (NN argentina) (NN están))) (VP (VBZ representados) (PP (IN en) (NP (NN el) (NN mural) (NNP de) (NNP La) (NNP Boca))))))) (. .)))
+(ROOT (S (NP (NNP Luego) (NN haga) (NN una) (NN lista) (NNP de) (NNP los)) (VP (VBZ mismos)) (. .)))
+(ROOT (NP (NP (NNP Fíjese) (NNP en)) (: :) (NP (NNP Las) (NNS siguientes)) (NP (JJ fotos) (NN pueden) (NN ayudarle)) (: :)))
